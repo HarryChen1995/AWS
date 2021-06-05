@@ -6,7 +6,7 @@ trust_relationship_policy = {
     "Statement": [
         {
             "Effect": "Allow",
-            "Principal": { "AWS": "arn:aws:iam::351717391285:user/hanlinchen"  },
+            "Principal": { "AWS": "arn:aws:iam::##############:user/####"  },
             "Action": "sts:AssumeRole",
         }
 
